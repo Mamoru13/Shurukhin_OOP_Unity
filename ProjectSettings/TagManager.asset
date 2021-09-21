@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Key
+  - Trap_1
+  - LifeUp
+  - Enemy
   layers:
   - Default
   - TransparentFX
